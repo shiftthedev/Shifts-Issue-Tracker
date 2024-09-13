@@ -1,7 +1,7 @@
 ---
 name: Issue report
 about: Report your issue here
-title: ''
+title: "[Mod Name] [Issue]"
 labels: ''
 assignees: ''
 
