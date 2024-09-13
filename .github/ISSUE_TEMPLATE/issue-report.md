@@ -20,6 +20,10 @@ Steps to reproduce the behavior:
 **Screenshots**
 If applicable, add screenshots/video to help explain your problem.
 
+**Crash-report or Log**
+Upload the report to https://mclo.gs and paste the link here.
+
+
 **Versions (please complete the following information):**
  - Minecraft: [1.20.4]
  - Mod: [1.0.0]
